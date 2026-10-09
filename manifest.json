@@ -1,0 +1,16 @@
+{
+  "name": "천억 캘린더",
+  "short_name": "천억",
+  "description": "천억프로젝트 캘린더 모바일판 — 최근 30일 후보 목록(매수신호 아님)",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b0a18",
+  "theme_color": "#0b0a18",
+  "icons": [
+    {"src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-mask.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"},
+    {"src": "icon-180.png", "sizes": "180x180", "type": "image/png", "purpose": "any"}
+  ]
+}
